@@ -1,5 +1,5 @@
 
-Let the fun begin! 😉
+# **Let the fun begin!** 😉
 
 Article # 1:
 Python decorators are a powerful feature of the language that allow you to modify or enhance the behavior of functions, classes, or modules without changing their source code. Decorators are a form of metaprogramming, which means that they let you write code that generates other code.
